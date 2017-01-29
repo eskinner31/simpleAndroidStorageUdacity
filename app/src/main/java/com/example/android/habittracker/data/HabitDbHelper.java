@@ -3,7 +3,7 @@ package com.example.android.habittracker.data;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import com.example.android.habittracker.data.HabitContract.HabitEntry
+import com.example.android.habittracker.data.HabitContract.HabitEntry;
 
 /**
  * Created by Skinner on 1/29/17.

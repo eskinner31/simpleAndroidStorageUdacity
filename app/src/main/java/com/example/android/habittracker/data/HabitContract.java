@@ -32,7 +32,7 @@ public class HabitContract {
 
         //Values for alert
         public final static int ALERT_FALSE = 0;
-        public final static int ALERT_TRUE = ;
+        public final static int ALERT_TRUE = 1;
     }
 
 }
